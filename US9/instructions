@@ -1,0 +1,5 @@
+- Installer Registry Explorer
+- Aller dans File puis load hive puis sélectionner le fichier SYSTEM dans le dossier dump extrait
+- Sélectionnez “yes” dans la popup puis “ok” puis “annuler” puis yes
+- Puis sélectionner le dossier root de la clé puis controlset001 puis USBSTOR
+puis Disk&Ven puis on retrouve le numéro de série et les autres donnée dans le tableau values

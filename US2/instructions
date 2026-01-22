@@ -1,0 +1,4 @@
+- Pour récupérer l'empreinte unique du fichier suspect, on tape la  commande :
+“ Get-FileHash -Path “C:\User\bds95\Desktop\Malware\Malware\VIRUS\Res.exe” -Algorithm SHA256”
+- on copie le hash
+- on le met dans VirusTotal.com et on le compare avec les bases existante

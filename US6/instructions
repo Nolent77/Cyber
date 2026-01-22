@@ -1,0 +1,8 @@
+- installer magnet dumplt
+- exécuter dumplt.exe qui réalise un dump de la mémoire vive du système
+- installer python 3.1.2
+- installer volatility
+- dans le cmd entrer la commande pip install —user -e” .[full]”
+- puis python vol.py -f “path/DESKTOP-L50P066-20260121.dmp windows.netscan
+- puis python vol.py -f “path/DESKTOP-L50P066-20260121.dmp windows.pslist
+- puis python vol.py -f “path/DESKTOP-L50P066-20260121.dmp windows.psscan
