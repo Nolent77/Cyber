@@ -1,0 +1,11 @@
+- installer FTK Imager
+- aller dans file puis create disk Image
+- on sélectionne Physical Drive
+- choisir drive 0 puis E01
+- on choisit le dossier de destination (dans un autre disque que celui utilisé) puis et le nom de fichier
+- on clique sur finish
+
+- installer autopsy
+- créé une case avec un nom avec base directory le dossier du malware puis next puis finish
+- puis on choisit l'image du disque crée précédemment avec FTK Image
+-  une fois l'analyse finit aller dans analysis schedule
