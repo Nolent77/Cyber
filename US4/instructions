@@ -1,2 +1,10 @@
 - Installation de Wireshark, Process Monitor, Process Explorer
 - lancement de wireshark clique sur ethernet 0
+- lancement de processus monitor > Filtrer  > dans les deux listes déroulantes
+on met “Process Name” et “Contains” et dans la 3ème (avant le then) on écrit re > Puis
+on appuie sur ok
+
+
+- installer IDA pro
+- glisser le fichier res.exe
+
